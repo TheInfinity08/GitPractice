@@ -6,7 +6,7 @@ public class SimpleCalculator {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("                 ##SIMPLE CALC##");
+		System.out.println("--------------------++SIMPLE CALC++--------------------");
 		int a,b,result=0;
 		char op;
 		Scanner sc = new Scanner(System.in);
